@@ -16,8 +16,11 @@ Programa em Java que simula o cadastro de produtos, demonstrando o uso de
 
 Cadastro de Produtos 
 Produto: Caneta Azul | Preço: R$ 2,50
+
 Produto: Caderno Universitário | Preço: R$ 15,90
+
 Produto: Mochila Escolar | Preço: R$ 89,99
+
 
 
 Total de produtos cadastrados: 3
